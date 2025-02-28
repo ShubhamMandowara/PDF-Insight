@@ -2,3 +2,4 @@ streamlit
 pymupdf
 langchain
 huggingface_hub
+langchain-community
