@@ -1,5 +1,7 @@
 # PDF-Insight: 📑 AI PDF Highlight Summarizer
 
+## DEMO LINK: https://pdf-insight.streamlit.app/
+
 ## 🚀 Overview
 This project extracts **highlighted text** from a PDF and generates a **concise summary** using **Mistral-7B** from Hugging Face. Built with **Streamlit**, it provides an easy-to-use interface for document analysis.
 
