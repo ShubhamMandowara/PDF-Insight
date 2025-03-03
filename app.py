@@ -28,7 +28,12 @@ if "summary" not in st.session_state:
 uploaded_file = st.file_uploader("📂 Upload a PDF", type="pdf")
 
 def extract_highlighted_text(pdf_path):
-    """Extracts highlighted text from a given PDF."""
+    """Extracts highlighted text from a given PDF.
+    Args:
+    pdf_path (str): PDF file path
+    Return 
+        list: document
+    """
     doc = fitz.open(pdf_path)
     highlighted_texts = []
 
