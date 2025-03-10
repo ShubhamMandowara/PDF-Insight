@@ -58,6 +58,3 @@ streamlit run app.py
 **Generated Summary:**
 AI is revolutionizing various sectors, and Mistral-7B is a strong model in the field.
 ```
-
-## 🤝 Contributing
-Feel free to fork, submit PRs, or open issues for feature requests!
